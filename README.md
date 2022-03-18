@@ -16,6 +16,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-````git
-cd kodluyoruzilkrepo code .```
-````
+```git
+cd kodluyoruzilkrepo
+code .
+```
